@@ -1,0 +1,11 @@
+{
+  "name": "FakeMessage",
+  "description": "Injects a fake message bubble that only renders locally, for pranks/screenshots.",
+  "authors": [
+    { "name": "lostallpower", "id": "916787218549452890" }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_message"
+  }
+}
